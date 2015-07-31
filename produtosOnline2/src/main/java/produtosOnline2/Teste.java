@@ -20,7 +20,7 @@ public class Teste implements Serializable {
 	private static final long serialVersionUID = 1L;
 
 	public void testa() {
-		System.out.println("qquer coisa atualizada da WEB...");
+		System.out.println("qquer coisa atualizada para a WEB...");
 
 		try {
 			final String sql = "select * from cliente";
